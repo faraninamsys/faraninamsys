@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Faran Inam 👋</h1>
 
-<!--
-**faraninamsys/faraninamsys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Exploring Linux • Operating Systems • Systems Thinking</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-Learning-black?style=flat-square&logo=linux">
+  <img src="https://img.shields.io/badge/OS-Foundations-black?style=flat-square">
+  <img src="https://img.shields.io/badge/Web-Background-black?style=flat-square">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- Built small **web projects** as a personal learner  
+- Now focused on **Linux and operating system fundamentals**
+- Interested in how software works **below the abstraction layer**
+- Using GitHub as a **learning log**, not a flex page
+
+---
+
+## 🔍 Current Focus
+
+- Linux command line & system utilities  
+- Processes, memory, filesystems  
+- Shell scripting & system behavior  
+- Strong fundamentals before frameworks
+
+---
+
+## 📌 What You’ll Find Here
+
+- Learning notes & experiments  
+- Small tools and scripts  
+- постепенный (slow, intentional) progress  
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/faraninamsys  
+- Email: faraninam.sys@gmail.com
