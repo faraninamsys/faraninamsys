@@ -40,5 +40,5 @@
 
 ## 📫 Contact
 
-- GitHub: https://github.com/faraninamsys  
-- Email: faraninam.sys@gmail.com
+- GitHub: https://github.com/faraninamlab
+- Email: faraninamlab@gmail.com
